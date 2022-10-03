@@ -1,0 +1,14 @@
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Release\netcoreapp3.1\CrewdayServerBoot.exe
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Release\netcoreapp3.1\CrewdayServerBoot.deps.json
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Release\netcoreapp3.1\CrewdayServerBoot.runtimeconfig.json
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Release\netcoreapp3.1\CrewdayServerBoot.runtimeconfig.dev.json
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Release\netcoreapp3.1\CrewdayServerBoot.dll
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Release\netcoreapp3.1\CrewdayServerBoot.pdb
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.GeneratedMSBuildEditorConfig.editorconfig
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.AssemblyInfoInputs.cache
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.AssemblyInfo.cs
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.csproj.CoreCompileInputs.cache
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.dll
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.pdb
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.genruntimeconfig.cache
+J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.csproj.AssemblyReference.cache
