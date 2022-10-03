@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Diagnostics;
 using System.Xml;
 
@@ -18,10 +19,15 @@ namespace CrewdayServerBoot
 {
     class Program
     {
-        private static String Path_Data = "./paths.xml";
+        private static String Base_Path;
+        private static String Path_Data;
 
         static void Main(string[] args)
         {
+            // Construct an absolute path for the config file.
+            Base_Path = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
+            Path_Data = Base_Path + "\\paths.xml";
+
             // Load XML file with paths to server executables.
             Console.WriteLine("Reading Path Data XML...");
             XmlDocument paths = new XmlDocument();
