@@ -11,4 +11,3 @@ J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\Crew
 J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.dll
 J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.pdb
 J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.genruntimeconfig.cache
-J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Release\netcoreapp3.1\CrewdayServerBoot.csproj.AssemblyReference.cache
