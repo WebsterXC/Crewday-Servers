@@ -12,3 +12,17 @@ J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\Crew
 J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.dll
 J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.pdb
 J:\Code\Code\Crewday_Servers\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.genruntimeconfig.cache
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Debug\netcoreapp3.1\CrewdayServerBoot.exe
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Debug\netcoreapp3.1\CrewdayServerBoot.deps.json
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Debug\netcoreapp3.1\CrewdayServerBoot.runtimeconfig.json
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Debug\netcoreapp3.1\CrewdayServerBoot.runtimeconfig.dev.json
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Debug\netcoreapp3.1\CrewdayServerBoot.dll
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\bin\Debug\netcoreapp3.1\CrewdayServerBoot.pdb
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.csproj.AssemblyReference.cache
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.AssemblyInfoInputs.cache
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.AssemblyInfo.cs
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.csproj.CoreCompileInputs.cache
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.dll
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.pdb
+C:\Users\Winston\Documents\GitHub\Crewday-Servers\Boot Scripts\CrewdayServerBoot\CrewdayServerBoot\obj\Debug\netcoreapp3.1\CrewdayServerBoot.genruntimeconfig.cache

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Code\\Code\\Crewday_Servers\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj": {}
+    "C:\\Users\\Winston\\Documents\\GitHub\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj": {}
   },
   "projects": {
-    "J:\\Code\\Code\\Crewday_Servers\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj": {
+    "C:\\Users\\Winston\\Documents\\GitHub\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Code\\Code\\Crewday_Servers\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj",
+        "projectUniqueName": "C:\\Users\\Winston\\Documents\\GitHub\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj",
         "projectName": "CrewdayServerBoot",
-        "projectPath": "J:\\Code\\Code\\Crewday_Servers\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj",
-        "packagesPath": "C:\\Users\\Will\\.nuget\\packages\\",
-        "outputPath": "J:\\Code\\Code\\Crewday_Servers\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\obj\\",
+        "projectPath": "C:\\Users\\Winston\\Documents\\GitHub\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\CrewdayServerBoot.csproj",
+        "packagesPath": "C:\\Users\\Winston\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Winston\\Documents\\GitHub\\Crewday-Servers\\Boot Scripts\\CrewdayServerBoot\\CrewdayServerBoot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "J:\\Visual Studio\\shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Will\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Winston\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
